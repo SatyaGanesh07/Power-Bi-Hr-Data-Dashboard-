@@ -66,6 +66,17 @@ This project aims to develop a user-friendly Power BI dashboard that:
 
 ---
 
+## Dashboard Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Action Page
+![Action Page](images/action.png)
+
+### Details Page
+![Details Page](images/details.png)
+
 ## How to Use
 
 1. Clone this repository.
@@ -78,9 +89,9 @@ This project aims to develop a user-friendly Power BI dashboard that:
 
 ## Contact
 
-For any queries or feedback, please open an issue or contact the repository owner.
+For any questions or suggestions, please open an issue or contact me via LinkedIn:  
+[Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)
 
----
 
 Thank you for exploring this HR Analytics Project! The dashboard aims to empower HR teams with timely and actionable insights.
 
