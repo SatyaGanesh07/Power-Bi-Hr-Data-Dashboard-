@@ -76,24 +76,6 @@ This project aims to develop a user-friendly Power BI dashboard that:
 
 ---
 
-## Screenshots
-
-Add dashboard screenshots to the `/images` folder to provide visual context.
-
----
-
-## Contributions
-
-Contributions to improve data modeling, visualizations, or data sources are welcome. Please open issues or pull requests for collaboration.
-
----
-
-## License
-
-[Specify your chosen license, e.g., MIT License]
-
----
-
 ## Contact
 
 For any queries or feedback, please open an issue or contact the repository owner.
