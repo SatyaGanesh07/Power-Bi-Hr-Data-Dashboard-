@@ -69,14 +69,14 @@ This project aims to develop a user-friendly Power BI dashboard that:
 ## Dashboard Screenshots
 
 ### Home Page
-![Home Page](images/home.png)
+![image alt](https://github.com/SatyaGanesh07/Power-Bi-Hr-Data-Dashboard-/blob/829e93023ab61abbceb7a682672400ff81c459b4/Dashboard%20image's/Home.png.png))
 
 ### Action Page
-![Action Page](images/action.png)
+![Action Page](https://github.com/SatyaGanesh07/Power-Bi-Hr-Data-Dashboard-/blob/829e93023ab61abbceb7a682672400ff81c459b4/Dashboard%20image's/Action.png.png)
+
 
 ### Details Page
-![Details Page](images/details.png)
-
+![Details Page](https://github.com/SatyaGanesh07/Power-Bi-Hr-Data-Dashboard-/blob/829e93023ab61abbceb7a682672400ff81c459b4/Dashboard%20image's/Details.png.png)
 ## How to Use
 
 1. Clone this repository.
